@@ -1,0 +1,22 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#07101D"/>
+  <rect width="800" height="1000" rx="48" fill="url(#paint0_radial)" fill-opacity="0.9"/>
+  <circle cx="612" cy="176" r="164" fill="#22D3EE" fill-opacity="0.18"/>
+  <circle cx="176" cy="844" r="196" fill="#0891B2" fill-opacity="0.24"/>
+  <rect x="112" y="112" width="576" height="776" rx="36" fill="#0B1628" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <circle cx="400" cy="332" r="120" fill="#12314A"/>
+  <path d="M268 667C268 580.962 337.962 511 424 511H376C462.038 511 532 580.962 532 667V691H268V667Z" fill="#12314A"/>
+  <path d="M400 222C346.98 222 304 264.98 304 318C304 371.02 346.98 414 400 414C453.02 414 496 371.02 496 318C496 264.98 453.02 222 400 222Z" fill="#22D3EE" fill-opacity="0.18"/>
+  <text x="400" y="790" text-anchor="middle" fill="#E2E8F0" font-family="Sora, Arial, sans-serif" font-size="34" font-weight="600">
+    Kalanithi K
+  </text>
+  <text x="400" y="836" text-anchor="middle" fill="#67E8F9" font-family="Manrope, Arial, sans-serif" font-size="24">
+    Python Developer
+  </text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 100) rotate(90) scale(900 700)">
+      <stop stop-color="#164E63"/>
+      <stop offset="1" stop-color="#050816"/>
+    </radialGradient>
+  </defs>
+</svg>
