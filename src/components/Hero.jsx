@@ -64,7 +64,7 @@ function Hero() {
               Hi, I&apos;m Kalanithi
             </p>
             <h1 className="mt-4 max-w-3xl font-display text-4xl font-semibold leading-tight text-white sm:text-5xl lg:text-6xl">
-              Building reliable enterprise web experiences with clean backend engineering.........
+              Building reliable enterprise web experiences with clean backend engineering.
             </h1>
 
             <div className="mt-6 flex min-h-[40px] items-center text-xl font-semibold text-brand-200 sm:text-2xl">
